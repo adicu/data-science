@@ -1,0 +1,9 @@
+googlemaps==2.4.6
+geocoder==1.22.4
+geojsonio==0.0.3
+pandas==0.20.1
+geocoder==1.22.4
+geopandas==0.2.1
+foursquare==1!2016.9.12
+sklearn==0.0
+Shapely==1.5.17.post1
